@@ -126,6 +126,104 @@ full story is in [The Global Marriage of Chicken & Rice](chapters/why-rice-and-c
 | 🍽️ **Served alongside** | [Hainanese Chicken Rice](chapters/hainanese-chicken-rice.qmd) · [Zereshk Polo](chapters/zereshk-polo.qmd) |
 | 🍲🍽️ **Hybrid** (one-pot rice, chicken added) | [Jollof Rice](chapters/jollof-rice.qmd) |
 
+## 🎵 Cooking soundtrack {#soundtrack}
+
+Every good kitchen needs a little music. Hit play for the house playlist — kicking
+off, as all great cooking must, with **the Chicken Dance on accordion**. It streams
+straight from YouTube; tap play to start, and it'll roll on to the next track on its
+own.
+
+::: {.content-visible when-format="html"}
+
+```{=html}
+<div style="max-width:520px;margin:1.1rem auto 0.4rem;">
+  <div style="position:relative;aspect-ratio:16/9;border-radius:12px;overflow:hidden;border:1px solid #d9c7a3;background:#000;">
+    <div id="yt-player" style="position:absolute;inset:0;width:100%;height:100%;"></div>
+  </div>
+  <div style="display:flex;flex-wrap:wrap;gap:0.5rem;justify-content:center;margin:0.7rem 0;">
+    <button type="button" onclick="window.ytCookAudio&&window.ytCookAudio.prev()" style="padding:0.4rem 0.9rem;border:0;border-radius:999px;background:#4b7f52;color:#fff;font:inherit;cursor:pointer;">⏮ Prev</button>
+    <button type="button" onclick="window.ytCookAudio&&window.ytCookAudio.toggle()" style="padding:0.4rem 1.1rem;border:0;border-radius:999px;background:#c0392b;color:#fff;font:inherit;cursor:pointer;">⏯ Play / Pause</button>
+    <button type="button" onclick="window.ytCookAudio&&window.ytCookAudio.next()" style="padding:0.4rem 0.9rem;border:0;border-radius:999px;background:#4b7f52;color:#fff;font:inherit;cursor:pointer;">Next ⏭</button>
+  </div>
+  <ul id="yt-tracklist" style="list-style:none;padding:0;margin:0 auto;max-width:520px;display:flex;flex-direction:column;gap:3px;font-size:0.95rem;"></ul>
+  <p style="text-align:center;font-size:0.8rem;color:#999;margin:0.4rem 0 0;">Plays from YouTube. Add your own tracks in <code>index.qmd</code>.</p>
+</div>
+
+<script>
+(function () {
+  // 🎵 The cooking playlist — add { id, title, by } rows (YouTube video IDs) to grow it.
+  var TRACKS = [
+    { id: "_q9ufUJXqhI", title: "The Chicken Dance (Accordion)", by: "amarcordeon" },
+    { id: "xXjF7HiDvyc", title: "The Chicken Dance",             by: "Lucy Riddett" }
+  ];
+  var player, current = 0, ready = false;
+
+  function renderList() {
+    var ul = document.getElementById("yt-tracklist");
+    if (!ul) return;
+    ul.innerHTML = "";
+    TRACKS.forEach(function (t, i) {
+      var li = document.createElement("li");
+      var b = document.createElement("button");
+      b.type = "button";
+      b.textContent = (i + 1) + ".  " + t.title + " — " + t.by;
+      b.style.cssText = "width:100%;text-align:left;padding:0.45rem 0.8rem;border:0;border-radius:8px;cursor:pointer;font:inherit;" +
+        (i === current ? "background:#4b7f52;color:#fff;font-weight:600;" : "background:rgba(75,127,82,0.10);color:inherit;");
+      b.addEventListener("click", function () { playIndex(i); });
+      li.appendChild(b);
+      ul.appendChild(li);
+    });
+  }
+
+  function playIndex(i) {
+    current = (i + TRACKS.length) % TRACKS.length;
+    renderList();
+    if (ready && player && player.loadVideoById) player.loadVideoById(TRACKS[current].id);
+  }
+
+  window.ytCookAudio = {
+    toggle: function () {
+      if (!ready || !player) return;
+      if (player.getPlayerState() === 1) player.pauseVideo(); else player.playVideo();
+    },
+    prev: function () { playIndex(current - 1); },
+    next: function () { playIndex(current + 1); }
+  };
+
+  function makePlayer() {
+    if (!document.getElementById("yt-player") || player) return;
+    player = new YT.Player("yt-player", {
+      videoId: TRACKS[0].id,
+      playerVars: { playsinline: 1, rel: 0, modestbranding: 1 },
+      events: {
+        onReady: function () { ready = true; },
+        onStateChange: function (e) { if (e.data === YT.PlayerState.ENDED) playIndex(current + 1); }
+      }
+    });
+  }
+
+  window.onYouTubeIframeAPIReady = makePlayer;
+  if (window.YT && window.YT.Player) makePlayer();
+  else if (!document.getElementById("yt-iframe-api")) {
+    var s = document.createElement("script");
+    s.id = "yt-iframe-api";
+    s.src = "https://www.youtube.com/iframe_api";
+    document.head.appendChild(s);
+  }
+  renderList();
+})();
+</script>
+```
+
+:::
+
+::: {.content-visible unless-format="html"}
+*The cooking soundtrack player lives on the
+[website](https://ggearheart.github.io/greg-likes-rice-and-chicken/#soundtrack).
+First track: "The Chicken Dance" on accordion —*
+<https://www.youtube.com/watch?v=_q9ufUJXqhI>.
+:::
+
 ## How to read this book
 
 You can read straight through for a culinary trip around the world, or jump to
