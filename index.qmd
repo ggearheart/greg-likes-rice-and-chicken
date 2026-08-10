@@ -159,7 +159,8 @@ own.
     { id: "xXjF7HiDvyc", title: "The Chicken Dance",             by: "Lucy Riddett" },
     { id: "fUnhmh5BTmU", title: "Rice, Peas 'N' Chicken",        by: "Jay Scott" },
     { id: "30B5DYW-brQ", title: "Jambalaya (On the Bayou)",      by: "Creedence Clearwater Revival" },
-    { id: "LdFqv3JBA4Q", title: "Chicken Lemon Rice",            by: "Priya Ragu" }
+    { id: "LdFqv3JBA4Q", title: "Chicken Lemon Rice",            by: "Priya Ragu" },
+    { id: "DCQ44b02Anc", title: "Fried Rice",                    by: "G-Eazy" }
   ];
   var player, current = 0, ready = false;
 
