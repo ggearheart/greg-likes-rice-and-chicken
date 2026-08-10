@@ -1,0 +1,98 @@
+# Arroz con Pollo a la Peruana 🇵🇪
+
+::: {.dish-meta}
+**Region:** Peru  ·  **Family:** One-pot pilaf (*arroz verde*)
+**Serves:** 4–6  ·  **Active time:** 45 minutes  ·  **Total:** 1 hour 15 min
+**Assembly:** 🍲 Cooked together — chicken browned, then rice cooked in the cilantro base with it
+:::
+
+The third arroz con pollo in this book, and the one that looks nothing like the
+others: this one is **green** — the rice cooked in a vivid purée of fresh cilantro,
+brightened with Peru's beloved **ají amarillo**. It's a Sunday-lunch staple from
+Lima to the northern coast, served with a sharp red-onion *salsa criolla*.
+
+## The story
+
+Like its [Spanish-Caribbean](arroz-con-pollo.qmd) and
+[northern-Mexican](arroz-con-pollo-norteno.qmd) cousins, Peruvian arroz con pollo
+descends from the colonial Spanish rice tradition — but Peru took it somewhere
+entirely its own. The signature move is the **aderezo verde**: a big blended base
+of cilantro (and often spinach, to deepen the color) that dyes the whole pot
+emerald and gives the dish its herbaceous soul.
+
+It's a close relative of the north coast's famous **arroz con pato** (rice with
+duck) from Chiclayo, which uses the same cilantro-and-dark-beer technique. The
+fruity heat of **ají amarillo** — Peru's golden chili — runs through everything,
+and a spoonful of *salsa criolla* on top brings the acid that ties it together.
+
+## Ingredients
+
+**Chicken**
+
+- 1 kg (2.2 lb) bone-in chicken pieces
+- 1 tsp cumin, salt and pepper
+- 2 tbsp neutral oil
+
+**Green base (*aderezo verde*)**
+
+- 1 large bunch cilantro (about 2 packed cups leaves and tender stems)
+- Optional: a handful of spinach, for a deeper green
+- 1 red onion, finely diced
+- 4 cloves garlic, minced
+- 2–3 tbsp ají amarillo paste
+- 1 tsp cumin
+
+**Rice & vegetables**
+
+- 2 cups (about 370 g) long-grain white rice, rinsed
+- 3 cups (720 ml) chicken stock, plus ½ cup (120 ml) dark beer (or all stock)
+- 1 red bell pepper, diced
+- 1 carrot, diced; 1 cup (150 g) peas; ½ cup (75 g) corn kernels
+
+**Salsa criolla (to serve)**
+
+- 1 red onion, sliced paper-thin and rinsed
+- Juice of 1–2 limes, 1 sliced ají or chili, chopped cilantro, salt
+
+::: {.callout-note appearance="simple"}
+**Gluten-free · dairy-free:** naturally dairy-free, and green from cilantro rather
+than anything creamy. For gluten-free, use a **gluten-free stock** and either a
+**gluten-free beer or just more stock** in its place, and check that your ají
+amarillo paste is gluten-free (most are).
+:::
+
+## Method
+
+1. Season the chicken with cumin, salt, and pepper. Brown well in the oil in a wide
+   heavy pot, then set aside.
+2. **Blend the green base:** purée the cilantro (and spinach, if using) with a splash
+   of the stock until smooth and vivid.
+3. In the same pot, soften the diced onion 4–5 minutes. Add the garlic, ají
+   amarillo, and cumin and cook 2 minutes until fragrant.
+4. Pour in the cilantro purée and cook, stirring, 2–3 minutes until it darkens
+   slightly and smells herbaceous.
+5. Stir in the rinsed rice and toast 1–2 minutes. Add the stock (and beer), the bell
+   pepper, and a good pinch of salt. Nestle the chicken and any juices back in.
+6. Bring to a boil, then scatter the carrot, peas, and corn over the top. Cover,
+   drop to the lowest heat, and cook **20 minutes** without stirring, until the
+   liquid is absorbed and the rice is tender. Rest, covered, 10 minutes.
+7. Meanwhile, toss the salsa criolla ingredients together — it should be sharp,
+   limey, and a little spicy.
+8. Fluff gently and serve each plate of green rice and chicken topped with a tangle
+   of salsa criolla, with extra ají sauce for the table.
+
+## The green, and the gold
+
+Two ingredients define this dish. **Cilantro**, blended and cooked into the rice,
+is the color and the perfume — use a lot, and don't be shy. **Ají amarillo**, Peru's
+fruity, sunshine-orange chili paste, is the warmth underneath; it's worth seeking
+out at a Latin grocer (fresh, frozen, or as a jarred paste) because nothing else
+tastes quite like it.
+
+## Make it yours
+
+- **Arroz con pato:** swap the chicken for duck legs and lean into the dark beer for
+  the northern-coast classic this dish grew from.
+- Add halved **hard-boiled eggs** or a few olives to serve, cebiche-house style.
+- No ají amarillo? A milder yellow chili plus a pinch of turmeric approximates the
+  color and gentle heat — but the real thing is worth the hunt.

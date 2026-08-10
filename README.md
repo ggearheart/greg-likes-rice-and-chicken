@@ -17,12 +17,14 @@ It's two things at once:
 | Cơm Gà | 🇻🇳 Vietnam | Turmeric rice, chicken over |
 | Oyakodon | 🇯🇵 Japan | Simmer over rice |
 | Arroz Caldo | 🇵🇭 Philippines | Congee / porridge |
+| Nasi Goreng | 🇮🇩 Indonesia | Stir-fried rice |
 | Hyderabadi Chicken Biryani | 🇮🇳 India | Layered *dum* pilaf |
 | Zereshk Polo ba Morgh | 🇮🇷 Iran | Steamed pilaf + tahdig |
 | Chicken Kabsa | 🇸🇦 Saudi Arabia | One-pot pilaf |
 | Jollof Rice | 🇳🇬 West Africa | One-pot pilaf |
 | Arroz con Pollo | 🇪🇸 Spain / Latin America | One-pot pilaf |
 | Arroz con Pollo Norteño | 🇲🇽 Northern Mexico | One-pot *arroz rojo* |
+| Arroz con Pollo a la Peruana | 🇵🇪 Peru | Green *arroz verde* |
 | Chicken Jambalaya | 🇺🇸 Louisiana, USA | One-pot Creole/Cajun |
 | Trinidad Pelau | 🇹🇹 Trinidad & Tobago | Caramelized one-pot |
 | Jamaican Curry Chicken over Rice & Peas | 🇯🇲 Jamaica | Curry over coconut rice |

@@ -32,6 +32,7 @@ book:
         - chapters/com-ga.qmd
         - chapters/oyakodon.qmd
         - chapters/arroz-caldo.qmd
+        - chapters/nasi-goreng.qmd
     - part: "South Asia & Persia"
       chapters:
         - chapters/hyderabadi-biryani.qmd
@@ -44,6 +45,7 @@ book:
       chapters:
         - chapters/arroz-con-pollo.qmd
         - chapters/arroz-con-pollo-norteno.qmd
+        - chapters/arroz-con-pollo-peruano.qmd
         - chapters/chicken-jambalaya.qmd
         - chapters/trinidad-pelau.qmd
         - chapters/jamaican-curry-chicken.qmd
