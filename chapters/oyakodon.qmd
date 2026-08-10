@@ -37,13 +37,19 @@ hot rice beneath it.
 
 **The simmering sauce (per serving)**
 
-- 60 ml (¼ cup) dashi
-- 1 tbsp soy sauce
-- 1 tbsp mirin
+- 60 ml (¼ cup) dashi (use a **gluten-free** dashi — some instant granules contain wheat)
+- 1 tbsp **gluten-free tamari** (in place of soy sauce)
+- 1 tbsp mirin (choose a gluten-free brand)
 - 1 tsp sugar
-- 1 tsp sake (optional)
+- 1 tsp sake (optional; naturally gluten-free)
 
 **To finish:** shichimi togarashi, mitsuba or extra scallion
+
+::: {.callout-note appearance="simple"}
+**Gluten-free · dairy-free:** naturally dairy-free. The gluten hides in the
+seasonings — use gluten-free **tamari, mirin, and dashi**, and check that your
+shichimi togarashi blend is gluten-free too.
+:::
 
 ## Method
 

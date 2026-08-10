@@ -41,7 +41,15 @@ a big pot over open flame.
 - 2 bay leaves, 1 tsp white pepper
 - 1 tbsp smoked paprika (for color and, well, smoke)
 - ~500 ml (2 cups) chicken stock
-- 1 seasoning cube (Maggi/Knorr — genuinely traditional), salt
+- 1 **certified gluten-free, dairy-free** bouillon/seasoning cube (many Maggi/Knorr
+  cubes contain wheat and/or milk — check the label), salt
+
+::: {.callout-note appearance="simple"}
+**Gluten-free · dairy-free:** the pepper base, rice, and oil are naturally both.
+The one thing to watch is the **seasoning cube** — use a certified GF/DF bouillon
+(or just good homemade stock and a little extra salt). Curry powder is usually GF,
+but check the blend.
+:::
 
 ## Method
 

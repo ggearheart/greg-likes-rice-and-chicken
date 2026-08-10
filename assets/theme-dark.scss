@@ -49,3 +49,30 @@ h1.title { color: $saffron; }
 table thead th { border-bottom: 2px solid $saffron; }
 .callout { border-left-color: $herb; }
 .sidebar-title { color: $saffron; }
+
+// Site-wide gluten-free / dairy-free banner (centered on every page)
+.gfdf-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem 0.9rem;
+  text-align: center;
+  margin: 0 auto 1.6rem;
+  padding: 0.6rem 1rem;
+  background: rgba(127, 181, 135, 0.14);
+  border: 1px solid $herb;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  color: $paper;
+}
+.gfdf-badges { display: inline-flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; }
+.gfdf-badge {
+  font-weight: 700;
+  background: $herb;
+  color: $ink;
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+.gfdf-text { font-style: italic; }

@@ -25,6 +25,16 @@ and then hands you a recipe you can actually cook tonight.
   Spotted an error, or cook this dish differently in your family? The
   [Contributing](chapters/contributing.qmd) chapter shows you how to send a fix.
 
+::: {.callout-important appearance="simple"}
+## 🌾🚫 Gluten-free · 🥛🚫 Dairy-free
+**Every recipe in this book is written to be gluten-free and dairy-free.** Where a
+traditional ingredient contains gluten or dairy, the recipe names the swap inline
+(gluten-free tamari for soy sauce, oil or plant-based butter for ghee and butter,
+dairy-free yogurt, certified gluten-free bouillon). The one page to read first is
+[The Cook's Toolkit](chapters/the-cooks-toolkit.qmd), which lists the standing
+substitutions used throughout — so always check labels, since brands vary.
+:::
+
 ## How to read this book
 
 You can read straight through for a culinary trip around the world, or jump to

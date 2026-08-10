@@ -3,6 +3,31 @@
 A handful of techniques and terms show up across the whole atlas. Learn them once
 here and the recipes will read like shorthand.
 
+## Gluten-free & dairy-free: the standing swaps {#gf-df}
+
+Every recipe in this book is **gluten-free and dairy-free**. Most of these dishes
+are naturally there already; the few that aren't rely on these standing swaps, so
+learn them once and the ingredient lists will make sense throughout. Brands vary
+wildly, so **always read the label** — "gluten-free" and "dairy-free" are claims a
+package has to earn.
+
+| Traditional ingredient | Contains | Use instead |
+|---|---|---|
+| Soy sauce, dark/sweet soy | Wheat (gluten) | **Gluten-free tamari**; for sweet soy, GF tamari + a little sugar or GF kecap manis |
+| Ghee / butter | Dairy | **Neutral oil** or a **plant-based butter**; rendered chicken fat where a dish makes its own |
+| Yogurt (marinades, tahdig) | Dairy | **Unsweetened dairy-free yogurt** (coconut or cashew) |
+| Milk (e.g. saffron milk) | Dairy | Saffron steeped in **warm water** or **dairy-free milk** |
+| Bouillon / seasoning cubes (Maggi, Knorr) | Often wheat &/or milk | **Certified gluten-free, dairy-free bouillon**, or good homemade stock |
+| Worcestershire sauce | Often malt/barley (gluten) | **Gluten-free Worcestershire**, or GF tamari |
+| Sausage (andouille) | Some use wheat fillers | **Certified gluten-free** smoked sausage |
+| Fish sauce, mirin, dashi | Usually fine, but not always | Choose a brand marked **gluten-free** (some contain wheat or malt) |
+
+::: {.callout-note}
+These swaps are already written into each recipe's ingredient list — this table is
+just the "why" in one place. Coconut milk, rice, fresh aromatics, whole spices,
+and pure chili/tomato are all naturally gluten- and dairy-free.
+:::
+
 ## Techniques worth mastering
 
 **Blooming spices.** Whole or ground spices are cooked briefly in hot fat before
@@ -28,9 +53,11 @@ gives the dish its signature mahogany color and bittersweet depth.
 off the heat so juices redistribute. Rice dishes often build this in as the final
 covered rest.
 
-**Dum (sealed steaming).** The biryani finish: a tight lid (sometimes sealed with
-dough) traps steam so layered rice and meat perfume each other. A clean dish
-towel under the lid catches condensation and keeps rice from going soggy.
+**Dum (sealed steaming).** The biryani finish: a tight lid traps steam so layered
+rice and meat perfume each other. Traditionally the lid is luted shut with a rope
+of wheat dough — to keep things gluten-free we skip that and use a **clean damp
+dish towel under the lid**, which seals just as well while catching condensation
+so the rice doesn't go soggy.
 
 ## A pantry for the whole book
 
@@ -40,10 +67,11 @@ You will not need everything at once, but these recur:
 - **Whole spices:** cinnamon, green cardamom, cloves, bay, cumin, coriander,
   black peppercorns, star anise
 - **Ground / paste:** turmeric, paprika/smoked paprika, garam masala, saffron
-- **Fats:** neutral oil, ghee (clarified butter), and — for several dishes —
-  rendered chicken fat, which you get for free from the bird
+- **Fats:** neutral oil, a good **plant-based butter** (our dairy-free stand-in for
+  ghee/butter), and — for several dishes — rendered chicken fat, which you get for
+  free from the bird
 - **Liquids:** good chicken stock (homemade transforms these dishes), fish sauce,
-  soy sauce, tomato
+  **gluten-free tamari** (in place of soy sauce), tomato
 - **Finishers:** fresh cilantro, mint, lime, fried shallots, toasted nuts
 
 ## Kit

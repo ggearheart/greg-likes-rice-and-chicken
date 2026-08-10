@@ -53,6 +53,7 @@ format:
     theme:
       light: [cosmo, assets/theme.scss]
       dark: [darkly, assets/theme-dark.scss]
+    include-before-body: assets/gf-df-banner.html
     toc: true
     toc-depth: 3
     code-copy: true

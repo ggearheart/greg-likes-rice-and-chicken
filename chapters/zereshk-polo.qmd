@@ -32,20 +32,27 @@ butter and sugar, they sparkle across the top like garnets.
 - 1 large onion, thinly sliced
 - 2 tbsp tomato paste
 - ½ tsp turmeric, salt, pepper
-- 2 tbsp oil or butter; 1 tbsp of the saffron liquid
+- 2 tbsp oil or plant-based butter; 1 tbsp of the saffron liquid
 
 **Rice & tahdig**
 
 - 400 g (2 cups) basmati rice, rinsed and soaked 30 min in salted water
 - 2 tbsp salt (for parboiling)
-- 4 tbsp butter or ghee, plus 3 tbsp oil
-- 2 tbsp plain yogurt + 2 tbsp saffron liquid (for a classic yogurt tahdig)
+- 4 tbsp **plant-based butter** (in place of butter/ghee), plus 3 tbsp oil
+- 2 tbsp **unsweetened dairy-free yogurt** + 2 tbsp saffron liquid (for the tahdig)
 
 **Barberry topping**
 
 - 60 g (½ cup) dried barberries, rinsed and soaked 10 min
-- 2 tbsp butter, 1 tbsp sugar
+- 2 tbsp plant-based butter, 1 tbsp sugar
 - Slivered pistachios and almonds to finish
+
+::: {.callout-note appearance="simple"}
+**Gluten-free · dairy-free:** rice and barberries are naturally gluten-free; the
+only dairy is the butter and the tahdig yogurt, both swapped here for **plant-based
+butter** and **dairy-free yogurt**. For the tahdig, the yogurt or **potato** version
+keeps it gluten-free — avoid the flatbread (*nan*) tahdig unless the bread is GF.
+:::
 
 ## Method
 
@@ -61,19 +68,19 @@ butter and sugar, they sparkle across the top like garnets.
 3. Boil a large pot of well-salted water. Add the drained rice and boil
    **uncovered 5–6 minutes** until the grains are soft outside but firm at the
    core. Drain and rinse briefly with lukewarm water.
-4. In the empty pot, warm the oil and 2 tbsp butter. For yogurt tahdig, mix the
-   yogurt with saffron liquid and a scoop of the parboiled rice; spread this over
-   the base in an even layer.
+4. In the empty pot, warm the oil and 2 tbsp plant-based butter. For yogurt tahdig,
+   mix the dairy-free yogurt with saffron liquid and a scoop of the parboiled rice;
+   spread this over the base in an even layer.
 5. Gently mound the rest of the rice on top in a pyramid (don't pack it). Poke a
    few holes down to the base with the handle of a spoon to let steam rise.
-6. Drizzle over the remaining melted butter and a little saffron liquid. Wrap the
+6. Drizzle over the remaining melted plant-based butter and a little saffron liquid. Wrap the
    lid in a clean towel, cover tightly, and cook **2 minutes on medium-high**,
    then **35–40 minutes on low**. You'll hear a faint crackle when the tahdig
    forms.
 
 ### Barberries & assembly
 
-7. While the rice steams, melt 2 tbsp butter in a small pan over low heat. Add
+7. While the rice steams, melt 2 tbsp plant-based butter in a small pan over low heat. Add
    the drained barberries and sugar and cook just 1–2 minutes — **watch them, they
    burn fast** and turn bitter.
 8. Fluff a few scoops of the steamed rice with the saffron liquid so it streaks
@@ -87,8 +94,9 @@ butter and sugar, they sparkle across the top like garnets.
 
 Tahdig ("bottom of the pot") is just controlled browning. The keys:
 
-- A layer that *conducts* heat evenly at the base — yogurt-rice, thin potato
-  slices, or flatbread all work.
+- A layer that *conducts* heat evenly at the base — dairy-free-yogurt-rice or thin
+  potato slices both work beautifully (skip the traditional flatbread tahdig unless
+  your flatbread is gluten-free).
 - **Enough fat** so it fries rather than scorches.
 - **Low, patient heat** and a towel-wrapped lid to keep steam off the crust.
 
@@ -96,8 +104,8 @@ Don't rush to check it. If you smell it toasting (not burning), it's ready.
 
 ## Make it yours
 
-- **Potato tahdig:** line the buttered pot with thin rounds of potato before the
-  rice — arguably the most beloved version.
+- **Potato tahdig:** line the oiled pot with thin rounds of potato before the
+  rice — arguably the most beloved version, and naturally gluten- and dairy-free.
 - Swap barberries for a tart cherry (*albaloo polo*) for a different jeweled rice.
 - No barberries? A little dried cranberry, chopped and lightly cooked, approximates
   the sweet-tart pop.
