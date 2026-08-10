@@ -156,7 +156,8 @@ own.
   // 🎵 The cooking playlist — add { id, title, by } rows (YouTube video IDs) to grow it.
   var TRACKS = [
     { id: "_q9ufUJXqhI", title: "The Chicken Dance (Accordion)", by: "amarcordeon" },
-    { id: "xXjF7HiDvyc", title: "The Chicken Dance",             by: "Lucy Riddett" }
+    { id: "xXjF7HiDvyc", title: "The Chicken Dance",             by: "Lucy Riddett" },
+    { id: "fUnhmh5BTmU", title: "Rice, Peas 'N' Chicken",        by: "Jay Scott" }
   ];
   var player, current = 0, ready = false;
 
