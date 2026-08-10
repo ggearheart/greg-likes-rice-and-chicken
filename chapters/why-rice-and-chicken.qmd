@@ -49,6 +49,36 @@ Jambalaya and Jollof are absorption dishes with a New World and West African
 accent; Oyakodon is a quick simmer served *over* rice rather than cooked with it.
 Once you can see these patterns, you can cook the whole atlas.
 
+## Together, over, or alongside?
+
+The families above describe how the *rice* is cooked. There's a second, simpler
+question that tells you how the finished plate comes together: do the chicken and
+rice cook **in the same pot**, or do they meet only at the table? It sorts the ten
+dishes into three groups — and you'll find this labeled as **Assembly** in every
+recipe's info strip.
+
+| How it comes together | What it means | Dishes |
+|---|---|---|
+| 🍲 **Cooked together** | Rice cooks *in* the chicken's fat, broth, or sauce — the two finish as one dish, in one pot | Arroz con Pollo · Jambalaya · Pelau · Arroz Caldo · Kabsa · Biryani† |
+| 🍚 **Chicken over rice** | Chicken cooked apart, then spooned *on top* of separately-cooked rice | Oyakodon |
+| 🍽️ **Served alongside** | Chicken and rice cooked as two separate components and plated side by side | Hainanese Chicken Rice · Zereshk Polo ba Morgh |
+
+† **Biryani** is the beautiful edge case: the rice is par-boiled on its own, then
+**layered with the raw chicken and steamed together** under a sealed lid (*dum*),
+so the defining cook is a combined one. **Kabsa** has a similar twist — the chicken
+simmers, is lifted out, the rice cooks in that same broth, and the chicken returns
+to the top; still one pot, one flavor base.
+
+**Jollof** is the true hybrid: the rice is a one-pot affair cooked in its pepper
+base, but the chicken is browned separately and folded in at the end — so depending
+on how you finish it, it leans either *together* or *alongside*.
+
+Notice the pattern: the **one-pot "together" dishes** cluster in the Americas, the
+Gulf, and the wider pilaf world, while the two **"separate components" dishes** —
+Hainanese and Zereshk Polo — are exactly the traditions that treat rice as its own
+high art, with the chicken as an honored partner rather than an ingredient stirred
+in.
+
 ## How to use the recipes
 
 Every recipe in this book follows the same shape:
