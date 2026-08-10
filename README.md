@@ -74,8 +74,8 @@ a pull request.
 
 - **Rebecca Greenwood** — for the idea and the inspiration behind this book. More of
   her own recipes are on the way.
-- The mockumentary ***Juan Like Rice and Chicken*** — an inspiration for the project,
-  and the affectionate nod behind the title.
+- The mockumentary [***Juan Likes Rice and Chicken***](https://www.youtube.com/watch?v=Fo0sN872oH0)
+  — an inspiration for the project, and the affectionate nod behind the title.
 
 ## License
 
