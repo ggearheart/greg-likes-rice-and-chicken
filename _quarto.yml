@@ -46,6 +46,9 @@ book:
         - chapters/chicken-jambalaya.qmd
         - chapters/trinidad-pelau.qmd
         - chapters/jamaican-curry-chicken.qmd
+    - part: "From the Author's Kitchen"
+      chapters:
+        - chapters/greg-baked-chicken-rice.qmd
     - chapters/contributing.qmd
     - references.qmd
 

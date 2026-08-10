@@ -26,9 +26,10 @@ It's two things at once:
 | Chicken Jambalaya | 🇺🇸 Louisiana, USA | One-pot Creole/Cajun |
 | Trinidad Pelau | 🇹🇹 Trinidad & Tobago | Caramelized one-pot |
 | Jamaican Curry Chicken over Rice & Peas | 🇯🇲 Jamaica | Curry over coconut rice |
+| Greg's Crowd-Pleaser Baked Chicken & Rice | 🏠 The author's kitchen | One-dish oven bake |
 
-Plus **Foundations** chapters: why the pairing works, Rice 101, and a cook's
-toolkit of shared techniques.
+Plus **Foundations** chapters (why the pairing works, Rice 101, and a cook's
+toolkit of shared techniques) and a **From the Author's Kitchen** capstone.
 
 ## Build it yourself
 
