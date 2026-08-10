@@ -1,0 +1,81 @@
+# Arroz con Pollo 🇪🇸
+
+::: {.dish-meta}
+**Region:** Spain & Latin America  ·  **Family:** One-pot pilaf (paella cousin)
+**Serves:** 4–6  ·  **Active time:** 40 minutes  ·  **Total:** 1 hour
+:::
+
+"Rice with chicken" — the name is plain, the dish is anything but. From Valencia
+to San Juan to Bogotá, arroz con pollo is Sunday food: golden, saffron-scented (or
+achiote-tinted) rice, tender chicken, sweet peppers and peas, all cooked together
+in one heavy pan.
+
+## The story
+
+Arroz con pollo is the everyday sibling of paella, born of the same Spanish rice
+tradition that itself grew from Moorish agriculture in Al-Andalus (the word
+*arroz* comes from Arabic *ar-ruzz*). Spanish colonization carried it across the
+Atlantic, where every country made it home: Puerto Rico and Cuba build it on
+**sofrito** and **achiote**; Peru turns it emerald green with cilantro
+(*arroz con pollo a la peruana*); Colombia and Panama have their own beloved
+takes. This recipe is a Caribbean-Latin version — the one most home cooks know.
+
+## Ingredients
+
+**Chicken & marinade (adobo)**
+
+- 1 kg (2.2 lb) bone-in chicken pieces
+- 3 cloves garlic, minced; 1 tsp dried oregano
+- 1 tbsp white vinegar or lime juice; salt, pepper
+
+**Sofrito & rice**
+
+- 3 tbsp olive oil (or a mix with annatto/achiote oil for color)
+- 1 onion, 1 green and 1 red bell pepper, finely diced
+- 4 cloves garlic, minced
+- 2 tbsp tomato paste or ½ cup grated tomato
+- 2 tbsp *sofrito* (see toolkit) or an extra handful of blitzed
+  onion-pepper-cilantro
+- 350 g (1.75 cups) medium-grain rice (bomba or Valencia)
+- Pinch saffron **or** 1 tsp achiote/annatto for the golden color
+- 1 tsp ground cumin, 2 bay leaves
+- 600 ml (2.5 cups) chicken stock
+- 100 g (¾ cup) frozen peas; ½ cup pimiento-stuffed olives (optional)
+- Roasted red pepper strips and chopped cilantro, to finish
+
+## Method
+
+1. Toss the chicken with the adobo ingredients; marinate 20 minutes (or
+   overnight).
+2. Heat the oil in a wide heavy pan or Dutch oven. Brown the chicken well on all
+   sides, then remove. Those browned bits are flavor — leave them in the pan.
+3. Lower the heat and cook the onion and peppers until soft and sweet, 6–8
+   minutes. Add garlic, tomato paste, sofrito, cumin, and saffron/achiote; cook
+   2 minutes until fragrant and deeply colored.
+4. Stir in the rice and toast 2 minutes so each grain glistens.
+5. Pour in the stock, add the bay leaves, and nestle the chicken (and any resting
+   juices) back in. Bring to a boil.
+6. Cover, reduce to low, and cook **18–20 minutes** without stirring, until the
+   liquid is absorbed and the rice is tender.
+7. Scatter the peas, olives, and roasted pepper over the top in the last 5
+   minutes (or fold in after cooking). Rest, covered, 5–10 minutes.
+8. Finish with cilantro and serve from the pan — a wedge of lime and a cold beer
+   are traditional accompaniments.
+
+## Color: saffron vs. achiote
+
+That signature golden hue comes one of two ways. **Saffron** (the Spanish route)
+gives a floral perfume; **achiote/annatto** (the Latin American route) gives an
+earthier note and a more vivid orange for a fraction of the cost. Many cooks in
+the Caribbean also reach for a packet of *sazón con culantro y achiote* — entirely
+traditional, and a shortcut with no shame in it.
+
+## Make it yours
+
+- **Peruvian** *arroz con pollo verde*: blend a big bunch of cilantro into the
+  cooking liquid for a striking green rice.
+- **Cuban** versions sometimes add a splash of beer or dry white wine to the
+  sofrito.
+- Make it a crowd dish in a paella pan and chase the *socarrat* — the toasty
+  crust on the bottom — just like the [rice crust](rice-101.qmd) we love
+  everywhere else.

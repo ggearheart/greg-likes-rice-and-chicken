@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c0392b"/>
+      <stop offset="0.55" stop-color="#a2321f"/>
+      <stop offset="1" stop-color="#3a2c22"/>
+    </linearGradient>
+    <radialGradient id="plate" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fbf6ec"/>
+      <stop offset="0.82" stop-color="#f3ead7"/>
+      <stop offset="1" stop-color="#e5d7bd"/>
+    </radialGradient>
+    <radialGradient id="rice" cx="0.5" cy="0.42" r="0.55">
+      <stop offset="0" stop-color="#fff8e6"/>
+      <stop offset="1" stop-color="#f0dcae"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="1600" fill="url(#bg)"/>
+
+  <!-- steam wisps -->
+  <g fill="none" stroke="#fbf6ec" stroke-opacity="0.16" stroke-width="9" stroke-linecap="round">
+    <path d="M540 470 q-40 -70 0 -140 q40 -70 0 -140"/>
+    <path d="M660 470 q40 -70 0 -140 q-40 -70 0 -140"/>
+    <path d="M600 450 q0 -80 0 -160"/>
+  </g>
+
+  <!-- plate -->
+  <circle cx="600" cy="700" r="330" fill="url(#plate)"/>
+  <circle cx="600" cy="700" r="330" fill="none" stroke="#d9c7a3" stroke-width="4"/>
+  <!-- mound of rice -->
+  <ellipse cx="600" cy="720" rx="250" ry="185" fill="url(#rice)"/>
+  <!-- grains -->
+  <g fill="#e9d093" opacity="0.9">
+    <ellipse cx="520" cy="690" rx="10" ry="4" transform="rotate(25 520 690)"/>
+    <ellipse cx="580" cy="740" rx="10" ry="4" transform="rotate(-15 580 740)"/>
+    <ellipse cx="650" cy="700" rx="10" ry="4" transform="rotate(40 650 700)"/>
+    <ellipse cx="690" cy="760" rx="10" ry="4" transform="rotate(-30 690 760)"/>
+    <ellipse cx="560" cy="780" rx="10" ry="4" transform="rotate(10 560 780)"/>
+    <ellipse cx="620" cy="660" rx="10" ry="4" transform="rotate(-45 620 660)"/>
+  </g>
+  <!-- a golden piece of chicken -->
+  <ellipse cx="600" cy="710" rx="120" ry="86" fill="#c67a2e"/>
+  <ellipse cx="600" cy="700" rx="120" ry="86" fill="#e0952f"/>
+  <ellipse cx="565" cy="678" rx="34" ry="22" fill="#f0b64a" opacity="0.7"/>
+  <!-- herb + chili garnish -->
+  <path d="M700 650 q30 -20 55 5 q-30 20 -55 -5 Z" fill="#4b7f52"/>
+  <path d="M470 745 q28 -22 54 3 q-28 22 -54 -3 Z" fill="#4b7f52"/>
+  <path d="M690 775 q40 6 66 34 q-40 -6 -66 -34 Z" fill="#c0392b"/>
+
+  <!-- title -->
+  <text x="600" y="1180" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" fill="#fbf6ec">Greg Likes</text>
+  <text x="600" y="1285" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="700" fill="#f0b64a">Rice &amp; Chicken</text>
+  <line x1="360" y1="1340" x2="840" y2="1340" stroke="#f0b64a" stroke-width="3"/>
+  <text x="600" y="1400" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-style="italic" fill="#f3ead7">A World Atlas of the Planet's</text>
+  <text x="600" y="1450" text-anchor="middle" font-family="Georgia, serif" font-size="40" font-style="italic" fill="#f3ead7">Favorite Pairing</text>
+  <text x="600" y="1540" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#e5d7bd" letter-spacing="6">10 DISHES · 10 HOMELANDS</text>
+</svg>

@@ -1,0 +1,28 @@
+# References & Further Reading {.unnumbered}
+
+The histories in this book draw on food scholarship, culinary writing, and the
+living knowledge of the cooks who keep these traditions. The works below are good
+next stops if you want to go deeper. Origin stories for folk dishes are contested
+by nature — where sources disagree, this book tries to say so.
+
+::: {#refs}
+:::
+
+## A few great places to keep reading
+
+- **Jessica B. Harris**, *High on the Hog* — the African diaspora's foundational
+  role in American (and Atlantic) rice cookery.
+- **Naomi Duguid & Jeffrey Alford**, *Seductions of Rice* — a global tour of rice
+  cultures and techniques.
+- **Najmieh Batmanglij**, *Food of Life* — the definitive English-language work on
+  Persian rice cookery and *tahdig*.
+- **Claudia Roden**, *The New Book of Middle Eastern Food* — essential on the
+  spiced-rice traditions of the Levant and Gulf.
+- On **jollof** and West African rice: the scholarship tracing rice from the Niger
+  Delta and the Senegambian Wolof origins of the dish.
+
+::: {.callout-note}
+Found a better source, or think we got a history wrong? The
+[Contributing](chapters/contributing.qmd) chapter explains how to send a
+correction — with a citation.
+:::

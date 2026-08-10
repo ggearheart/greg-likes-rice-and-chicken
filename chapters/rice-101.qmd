@@ -1,0 +1,71 @@
+# Rice 101
+
+Get the rice right and you are most of the way to a great plate. This short
+chapter is the one piece of technique that pays off in every recipe that follows.
+
+## Know your grain
+
+| Type | Character | Best for |
+|---|---|---|
+| **Long-grain (basmati, jasmine)** | Cooks up separate, fluffy, low-stick | Biryani, Kabsa, Hainanese, most pilafs |
+| **Medium-grain (bomba, Valencia, Calrose)** | Creamier, holds sauce, slight cling | Arroz con Pollo, paella-style dishes |
+| **Short-grain (Japanese, glutinous)** | Sticky, tender | Oyakodon's bed of rice, congee |
+| **Parboiled / converted** | Extra-firm, forgiving | Jollof, Jambalaya, big-batch cooking |
+
+There is no "best" rice — only the right rice for the dish. Reach for the type a
+recipe calls for and it will behave the way the tradition expects.
+
+## The two habits that fix most rice
+
+### 1. Rinse (almost) always
+
+Rinsing long-grain rice under cool water until it runs *nearly* clear washes off
+surface starch that otherwise glues the grains together. Swirl, drain, repeat
+three or four times. The exceptions are dishes where you *want* creaminess —
+risotto, paella, and congee — where you skip the rinse on purpose.
+
+### 2. Soak basmati
+
+For biryani and Persian rice, soak rinsed basmati for 30 minutes before cooking.
+The grains hydrate evenly and elongate dramatically instead of snapping. Drain
+well before it hits the pot.
+
+## Foolproof absorption rice
+
+This is the baseline method behind most pilaf-family dishes.
+
+::: {.callout-note}
+## Ratios, by grain
+- **Basmati (soaked):** 1 cup rice : 1.25 cups liquid
+- **Jasmine:** 1 cup rice : 1.25 cups liquid
+- **Medium-grain:** 1 cup rice : 1.5 cups liquid
+- **Parboiled:** 1 cup rice : 2 cups liquid
+
+Volumes assume a cup of ~180 g rice. When in doubt, weigh.
+:::
+
+1. Rinse the rice until the water runs nearly clear; drain well.
+2. Combine rice, measured liquid, and salt in a heavy pot with a tight lid.
+3. Bring to a boil, uncovered, then immediately drop to the lowest heat and
+   cover. **Do not lift the lid.**
+4. Cook 12–15 minutes (long-grain) until the liquid is gone and steam holes
+   appear on the surface.
+5. Off the heat, keep it covered and **rest 10 minutes**. This step is not
+   optional — it lets the grains finish on residual steam and firm up.
+6. Fluff gently with a fork, lifting rather than stirring, to keep grains intact.
+
+## The two failures, diagnosed
+
+- **Gluey / mushy:** too much water, or you stirred it. Next time cut the liquid
+  by 10% and leave it alone.
+- **Crunchy / dry:** too little water or heat too high (the water boiled off
+  before the grain hydrated). Add a splash of hot water, re-cover, and give it
+  five more minutes off direct high heat.
+
+## Bonus: the crust is a feature
+
+In many of these cuisines the prized part is the crisp golden crust that forms
+at the bottom of the pot — Persian **tahdig**, Spanish **socarrat**, Senegalese
+**xoon**. It comes from a few extra minutes on slightly higher heat at the very
+end, often with a little more fat. We'll build it deliberately in the
+[Zereshk Polo](zereshk-polo.qmd) chapter.

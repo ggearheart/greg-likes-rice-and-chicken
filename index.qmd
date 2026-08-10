@@ -1,0 +1,42 @@
+# Welcome {.unnumbered}
+
+::: {.hero}
+**Two ingredients. A hundred homelands. One irresistible plate.**
+:::
+
+Chicken and rice may be the most widely shared meal on Earth. Nearly every
+culture that grows rice and keeps poultry has, independently, arrived at the
+same happy conclusion: that tender chicken and a pot of fragrant grains belong
+together. What each culture does *next* — the spicing, the fat, the technique,
+the ritual — is where the whole world opens up.
+
+This is a cookbook, an atlas, and a small love letter to that pairing. Every
+chapter takes one iconic dish, tells you where it comes from and why it matters,
+and then hands you a recipe you can actually cook tonight.
+
+## What's inside
+
+- **10 flagship dishes** spanning Singapore to Trinidad, each with its history,
+  a full ingredient list, and a step-by-step method.
+- **Foundations** — how to cook rice that isn't gluey, plus the small handful of
+  techniques (blooming spices, building sofrito, resting a bird) that show up
+  again and again.
+- **Open source** — the whole book is written in [Quarto](https://quarto.org).
+  Spotted an error, or cook this dish differently in your family? The
+  [Contributing](chapters/contributing.qmd) chapter shows you how to send a fix.
+
+## How to read this book
+
+You can read straight through for a culinary trip around the world, or jump to
+whatever you're hungry for. If you're new to cooking rice, start with
+[Rice 101](chapters/rice-101.qmd) — it will make every recipe that follows
+turn out better.
+
+::: {.callout-tip}
+## A note on authenticity
+There is no single "correct" version of any of these dishes. A recipe is a
+snapshot of a living tradition, and every grandmother is right. Where a dish has
+strong regional variants, this book notes them — and invites you to add yours.
+:::
+
+Now, put a pot on. Let's eat.

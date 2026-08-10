@@ -1,0 +1,75 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Greg Likes Rice & Chicken"
+  subtitle: "A World Atlas of the Planet's Favorite Pairing"
+  author: "Greg Gearheart & Contributors"
+  date: today
+  favicon: assets/favicon.svg
+  cover-image: assets/cover.svg
+  site-url: https://ggearheart.github.io/greg-likes-rice-and-chicken/
+  repo-url: https://github.com/ggearheart/greg-likes-rice-and-chicken
+  repo-branch: main
+  repo-actions: [edit, issue]
+  sharing: [twitter, facebook]
+  search: true
+  page-footer:
+    left: "Made with 🍚 + 🐔 · CC BY-SA 4.0"
+    right: "Built with [Quarto](https://quarto.org)"
+  chapters:
+    - index.qmd
+    - part: "Foundations"
+      chapters:
+        - chapters/why-rice-and-chicken.qmd
+        - chapters/rice-101.qmd
+        - chapters/the-cooks-toolkit.qmd
+    - part: "East & Southeast Asia"
+      chapters:
+        - chapters/hainanese-chicken-rice.qmd
+        - chapters/oyakodon.qmd
+        - chapters/arroz-caldo.qmd
+    - part: "South Asia & Persia"
+      chapters:
+        - chapters/hyderabadi-biryani.qmd
+        - chapters/zereshk-polo.qmd
+    - part: "The Middle East & Africa"
+      chapters:
+        - chapters/chicken-kabsa.qmd
+        - chapters/jollof-rice.qmd
+    - part: "The Americas & Caribbean"
+      chapters:
+        - chapters/arroz-con-pollo.qmd
+        - chapters/chicken-jambalaya.qmd
+        - chapters/trinidad-pelau.qmd
+    - chapters/contributing.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/theme.scss]
+      dark: [darkly, assets/theme-dark.scss]
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    grid:
+      sidebar-width: 320px
+      body-width: 820px
+  pdf:
+    documentclass: scrbook
+    papersize: letter
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - inner=28mm
+      - outer=22mm
+    colorlinks: true
+    toc: true
+    toc-depth: 2
+  epub:
+    toc: true
+    cover-image: assets/cover.svg

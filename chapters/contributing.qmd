@@ -1,0 +1,54 @@
+# Contributing {.unnumbered}
+
+This book is **open source**, and it's better with more cooks in the kitchen.
+Whether you've spotted a typo, cook one of these dishes differently in your family,
+or want to add a whole new chapter, you're welcome here.
+
+## Ways to contribute
+
+- **Fix something small** — a typo, a wrong ratio, a broken link. Use the *Edit
+  this page* link in the right sidebar of any chapter (it takes you straight to
+  the source on GitHub).
+- **Add a regional variation** — every dish has a *Make it yours* section. If your
+  family's version differs, tell us how in an issue or a pull request.
+- **Add a new dish** — the world has far more than ten chicken-and-rice dishes.
+  See the template below.
+
+## Add a new dish
+
+1. Fork the repository.
+2. Copy an existing chapter in `chapters/` as a starting point and rename it
+   (e.g. `chapters/thai-khao-mok-gai.qmd`).
+3. Follow the house recipe format:
+   - `# Dish Name 🏳️` heading with a flag emoji
+   - a `::: {.dish-meta}` block (region · family · serves · time)
+   - **The story** → **Ingredients** → **Method** → **Make it yours**
+4. Register the chapter in `_quarto.yml` under the right regional *part*.
+5. Preview locally, then open a pull request.
+
+```bash
+# preview the book live with hot reload
+quarto preview
+
+# render all formats (HTML, PDF, EPUB) to _book/
+quarto render
+```
+
+## House style
+
+- **Write the story first.** A recipe without its context is just a list. Tell us
+  where the dish comes from and why people cook it.
+- **Weigh where it matters,** but always give a home-cook-friendly volume too.
+- **Respect the tradition.** Note regional variants rather than declaring one
+  "authentic." Every grandmother is right.
+- **Cite claims about origins.** Add sources to `references.bib` and cite them
+  with `[@key]` so the history stays honest.
+
+## Ground rules
+
+Be generous and kind. Food is culture, and these dishes belong to real
+communities — write about them with the care you'd want for your own family's
+cooking. By contributing you agree to license your work under the same terms as
+the book (content **CC BY-SA 4.0**, code **MIT**).
+
+Thank you for cooking with us. 🍚🐔

@@ -1,0 +1,23 @@
+# Quarto
+/_book/
+/.quarto/
+*_files/
+/site_libs/
+
+# LaTeX intermediates
+*.aux
+*.log
+*.toc
+*.out
+
+# Local editor / harness config (machine-specific paths)
+.claude/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+**/*.quarto_ipynb
