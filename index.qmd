@@ -35,6 +35,93 @@ dairy-free yogurt, certified gluten-free bouillon). The one page to read first i
 substitutions used throughout — so always check labels, since brands vary.
 :::
 
+## Explore the atlas {#explore}
+
+Every dish is pinned to its homeland below. **Click a marker** to jump straight to
+the recipe — and notice the colors: each pin is tinted by *how the dish is put
+together*, so you can see the pattern across the map.
+
+::: {.content-visible when-format="html"}
+
+```{=html}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+
+<div id="recipe-map" style="height:480px; border-radius:12px; overflow:hidden; border:1px solid #d9c7a3; margin:1.1rem 0 0.6rem;"></div>
+
+<div class="map-legend" style="display:flex; flex-wrap:wrap; gap:0.4rem 1.1rem; justify-content:center; font-size:0.9rem; margin-bottom:0.4rem;">
+  <span><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#4b7f52;border:2px solid #fff;box-shadow:0 0 0 1px #999;vertical-align:middle;margin-right:0.35rem;"></span>Cooked together</span>
+  <span><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#2c6e9c;border:2px solid #fff;box-shadow:0 0 0 1px #999;vertical-align:middle;margin-right:0.35rem;"></span>Chicken over rice</span>
+  <span><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#c0392b;border:2px solid #fff;box-shadow:0 0 0 1px #999;vertical-align:middle;margin-right:0.35rem;"></span>Served alongside</span>
+  <span><span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#e8a02c;border:2px solid #fff;box-shadow:0 0 0 1px #999;vertical-align:middle;margin-right:0.35rem;"></span>Hybrid</span>
+</div>
+
+<script>
+(function () {
+  var dishes = [
+    { name: "Hainanese Chicken Rice", flag: "🇸🇬", where: "Singapore",            cat: "alongside", label: "Served alongside",  lat: 1.35,  lon: 103.82, url: "chapters/hainanese-chicken-rice.html" },
+    { name: "Oyakodon",              flag: "🇯🇵", where: "Japan",                cat: "over",      label: "Chicken over rice", lat: 35.68, lon: 139.69, url: "chapters/oyakodon.html" },
+    { name: "Arroz Caldo",           flag: "🇵🇭", where: "Philippines",          cat: "together",  label: "Cooked together",   lat: 14.60, lon: 120.98, url: "chapters/arroz-caldo.html" },
+    { name: "Hyderabadi Biryani",    flag: "🇮🇳", where: "Hyderabad, India",     cat: "together",  label: "Cooked together",   lat: 17.38, lon: 78.48,  url: "chapters/hyderabadi-biryani.html" },
+    { name: "Zereshk Polo ba Morgh", flag: "🇮🇷", where: "Iran",                 cat: "alongside", label: "Served alongside",  lat: 35.69, lon: 51.39,  url: "chapters/zereshk-polo.html" },
+    { name: "Chicken Kabsa",         flag: "🇸🇦", where: "Saudi Arabia",         cat: "together",  label: "Cooked together",   lat: 24.71, lon: 46.68,  url: "chapters/chicken-kabsa.html" },
+    { name: "Jollof Rice",           flag: "🇳🇬", where: "West Africa",          cat: "hybrid",    label: "Hybrid",            lat: 6.52,  lon: 3.38,   url: "chapters/jollof-rice.html" },
+    { name: "Arroz con Pollo",       flag: "🇪🇸", where: "Spain & Latin America", cat: "together", label: "Cooked together",   lat: 40.42, lon: -3.70,  url: "chapters/arroz-con-pollo.html" },
+    { name: "Chicken Jambalaya",     flag: "🇺🇸", where: "Louisiana, USA",       cat: "together",  label: "Cooked together",   lat: 29.95, lon: -90.07, url: "chapters/chicken-jambalaya.html" },
+    { name: "Trinidad Pelau",        flag: "🇹🇹", where: "Trinidad & Tobago",    cat: "together",  label: "Cooked together",   lat: 10.65, lon: -61.51, url: "chapters/trinidad-pelau.html" }
+  ];
+  var colors = { together: "#4b7f52", over: "#2c6e9c", alongside: "#c0392b", hybrid: "#e8a02c" };
+
+  function init() {
+    if (typeof L === "undefined") { setTimeout(init, 120); return; }
+    var el = document.getElementById("recipe-map");
+    if (!el || el._leaflet_id) return;
+    var map = L.map(el, { scrollWheelZoom: false, worldCopyJump: true, minZoom: 2 }).setView([20, 40], 2);
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 8, attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
+    dishes.forEach(function (d) {
+      var m = L.circleMarker([d.lat, d.lon], {
+        radius: 9, color: "#fff", weight: 2, fillColor: colors[d.cat], fillOpacity: 0.95
+      }).addTo(map);
+      m.bindPopup(
+        '<div style="text-align:center;min-width:150px;">' +
+          '<strong>' + d.flag + ' ' + d.name + '</strong><br>' +
+          '<span style="color:#777;">' + d.where + '</span><br>' +
+          '<span style="display:inline-block;margin:4px 0;padding:1px 8px;border-radius:999px;color:#fff;font-size:0.8em;background:' + colors[d.cat] + ';">' + d.label + '</span><br>' +
+          '<a href="' + d.url + '">View recipe &rarr;</a>' +
+        '</div>'
+      );
+      m.bindTooltip(d.flag + " " + d.name, { direction: "top" });
+    });
+    setTimeout(function () { map.invalidateSize(); }, 200);
+  }
+  if (document.readyState === "complete") init();
+  else window.addEventListener("load", init);
+})();
+</script>
+```
+
+:::
+
+::: {.content-visible unless-format="html"}
+*The interactive recipe map lives on the website —*
+[ggearheart.github.io/greg-likes-rice-and-chicken](https://ggearheart.github.io/greg-likes-rice-and-chicken/#explore).
+*The full list, grouped by how each dish comes together, is below.*
+:::
+
+### …or browse by how it's assembled
+
+Do the chicken and rice cook **in the same pot**, or meet only at the table? (The
+full story is in [The Global Marriage of Chicken & Rice](chapters/why-rice-and-chicken.qmd#together-over-or-alongside).)
+
+| How it comes together | Dishes |
+|---|---|
+| 🍲 **Cooked together** (one pot) | [Arroz con Pollo](chapters/arroz-con-pollo.qmd) · [Jambalaya](chapters/chicken-jambalaya.qmd) · [Pelau](chapters/trinidad-pelau.qmd) · [Arroz Caldo](chapters/arroz-caldo.qmd) · [Kabsa](chapters/chicken-kabsa.qmd) · [Biryani](chapters/hyderabadi-biryani.qmd) |
+| 🍚 **Chicken over rice** | [Oyakodon](chapters/oyakodon.qmd) |
+| 🍽️ **Served alongside** | [Hainanese Chicken Rice](chapters/hainanese-chicken-rice.qmd) · [Zereshk Polo](chapters/zereshk-polo.qmd) |
+| 🍲🍽️ **Hybrid** (one-pot rice, chicken added) | [Jollof Rice](chapters/jollof-rice.qmd) |
+
 ## How to read this book
 
 You can read straight through for a culinary trip around the world, or jump to
