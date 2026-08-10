@@ -1,0 +1,109 @@
+# Arroz con Pollo Norteño 🇲🇽
+
+::: {.dish-meta}
+**Region:** Northern Mexico (Sonora & Chihuahua)  ·  **Family:** One-pot pilaf (*arroz rojo* base)
+**Serves:** 4–6  ·  **Active time:** 45 minutes  ·  **Total:** 1 hour 10 min
+**Assembly:** 🍲 Cooked together — chicken browned, then rice cooked in the same pot
+:::
+
+Not to be confused with its [Caribbean-Spanish cousin](arroz-con-pollo.qmd) a few
+pages back: the northern-Mexican version is built on **arroz rojo** — Mexican red
+rice — with a tomato-forward base, a hit of cumin and Mexican oregano, a whole
+green chile for perfume, and (if you're doing it right) a splash of cold lager.
+It's *cocina norteña* comfort food, the kind that lands on the table on a Sunday
+in Hermosillo or Chihuahua.
+
+## The story
+
+Northern Mexico is ranch country — big skies, cattle, flour tortillas, and hearty,
+unfussy cooking. Its arroz con pollo grows out of **arroz rojo**, the everyday
+red rice that anchors Mexican home tables, which itself descends from the same
+Spanish rice tradition (carried across the Pacific on the Manila galleon and
+planted in colonial kitchens) that produced *arroz con pollo* all over Latin
+America.
+
+What makes the *norteño* take its own dish is the accent: no sofrito, olives, or
+achiote here. Instead there's a smooth blended tomato base fried until it darkens,
+warm cumin and **Mexican oregano** (brighter and more citrusy than the
+Mediterranean kind), a fresh serrano or jalapeño, and the region's habit of
+deglazing with a **cerveza**. It's finished with lime, cilantro, avocado, and a
+stack of warm tortillas.
+
+## Ingredients
+
+**Chicken**
+
+- 1 kg (2.2 lb) bone-in chicken thighs and drumsticks
+- ½ tsp ground cumin, ½ tsp Mexican oregano, salt and pepper
+- 2 tbsp neutral oil (or lard, the traditional — and dairy-free — norteño fat)
+
+**Red-rice base**
+
+- 3 Roma tomatoes, quartered
+- ¼ white onion (plus ½ onion, diced, for the pot)
+- 2 cloves garlic
+- 300 g (1.5 cups) long-grain white rice, rinsed until nearly clear and **drained well**
+- 1 carrot, diced
+- 1 small potato, diced (optional, very norteño)
+- 80 g (½ cup) peas and/or corn kernels
+- 1 whole serrano or jalapeño (left whole for aroma; slit and diced if you want heat)
+- ½ tsp cumin, pinch Mexican oregano
+- ~600 ml (2.5 cups) chicken broth
+- 120 ml (½ cup) Mexican lager (optional; reduce the broth by the same amount)
+- Salt
+
+**To serve:** chopped cilantro, lime wedges, sliced avocado, warm corn tortillas,
+and a simple tomato-chile salsa
+
+::: {.callout-note appearance="simple"}
+**Gluten-free · dairy-free:** naturally both — rice, chicken, tomato, and oil (or
+lard). Two things to watch: use a **certified gluten-free, dairy-free chicken
+bouillon** if you're not using homemade broth (Mexican brands like Knorr Suiza
+often contain wheat and/or milk), and serve with **corn tortillas** rather than the
+region's usual wheat flour ones (or a gluten-free tortilla). Confirm your beer is
+gluten-free, or just leave it out.
+:::
+
+## Method
+
+1. Pat the chicken dry and season with cumin, oregano, salt, and pepper. In a wide
+   heavy pot or *cazuela*, brown the pieces well in the oil on all sides. Remove
+   and set aside — they'll finish in the rice.
+2. Meanwhile, blend the tomatoes, onion quarter, and garlic with a splash of the
+   broth into a smooth purée. Set aside.
+3. Lower the heat to medium. Add the **drained rice** to the same pot (add a little
+   more oil if needed) and toast, stirring often, until the grains turn golden and
+   smell nutty, 5–6 minutes. Stir in the diced onion and carrot for the last 2
+   minutes. *This toasting step is what keeps the grains separate and gives arroz
+   rojo its flavor — don't skip it.*
+4. Pour in the blended tomato base (stand back — it will splatter). Fry, stirring,
+   3–4 minutes until it darkens to a deep brick red and the raw-tomato smell is
+   gone.
+5. Add the broth (and beer, if using), cumin, oregano, potato, peas/corn, and the
+   whole chile. Season with salt — the liquid should taste well seasoned. Nestle
+   the chicken and any resting juices back in.
+6. Bring to a boil, then cover, drop to the **lowest heat, and cook 18–20 minutes**
+   without stirring, until the liquid is absorbed and the rice is tender.
+7. Kill the heat and let it rest, covered, 10 minutes. Fish out the whole chile,
+   fluff gently with a fork, and finish with cilantro, a good squeeze of lime, and
+   avocado. Serve straight from the pot with warm tortillas and salsa.
+
+## The norteño difference
+
+Three moves set this apart from the [Caribbean-Spanish version](arroz-con-pollo.qmd):
+
+- **A blended, fried tomato base** (*arroz rojo*) instead of a diced sofrito —
+  smoother, deeper, brick-red.
+- **Cumin + Mexican oregano + fresh green chile** instead of saffron, olives, and
+  capers.
+- **A splash of lager** in place of white wine, and **lime, cilantro, and avocado**
+  to finish instead of roasted pepper and peas alone.
+
+## Make it yours
+
+- **Sonora vs. Chihuahua:** cooks across the north argue the details — more or less
+  tomato, potato in or out, beer or no beer. All are right.
+- **Brown the chicken in lard** for the most traditional flavor (it's dairy-free).
+- Add a spoonful of the tomato salsa's chiles for smokier heat, or keep the whole
+  jalapeño in for aroma without the burn.
+- Leftovers make a fantastic filling for tacos the next day.

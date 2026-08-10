@@ -21,6 +21,7 @@ It's two things at once:
 | Chicken Kabsa | 🇸🇦 Saudi Arabia | One-pot pilaf |
 | Jollof Rice | 🇳🇬 West Africa | One-pot pilaf |
 | Arroz con Pollo | 🇪🇸 Spain / Latin America | One-pot pilaf |
+| Arroz con Pollo Norteño | 🇲🇽 Northern Mexico | One-pot *arroz rojo* |
 | Chicken Jambalaya | 🇺🇸 Louisiana, USA | One-pot Creole/Cajun |
 | Trinidad Pelau | 🇹🇹 Trinidad & Tobago | Caramelized one-pot |
 

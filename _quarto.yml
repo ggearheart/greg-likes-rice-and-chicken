@@ -41,6 +41,7 @@ book:
     - part: "The Americas & Caribbean"
       chapters:
         - chapters/arroz-con-pollo.qmd
+        - chapters/arroz-con-pollo-norteno.qmd
         - chapters/chicken-jambalaya.qmd
         - chapters/trinidad-pelau.qmd
     - chapters/contributing.qmd
