@@ -157,7 +157,8 @@ own.
   var TRACKS = [
     { id: "_q9ufUJXqhI", title: "The Chicken Dance (Accordion)", by: "amarcordeon" },
     { id: "xXjF7HiDvyc", title: "The Chicken Dance",             by: "Lucy Riddett" },
-    { id: "fUnhmh5BTmU", title: "Rice, Peas 'N' Chicken",        by: "Jay Scott" }
+    { id: "fUnhmh5BTmU", title: "Rice, Peas 'N' Chicken",        by: "Jay Scott" },
+    { id: "30B5DYW-brQ", title: "Jambalaya (On the Bayou)",      by: "Creedence Clearwater Revival" }
   ];
   var player, current = 0, ready = false;
 
