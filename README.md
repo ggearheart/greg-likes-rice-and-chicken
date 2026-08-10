@@ -14,6 +14,7 @@ It's two things at once:
 | Dish | Home | Technique |
 |---|---|---|
 | Hainanese Chicken Rice | 🇸🇬 Singapore | Poach & serve |
+| Cơm Gà | 🇻🇳 Vietnam | Turmeric rice, chicken over |
 | Oyakodon | 🇯🇵 Japan | Simmer over rice |
 | Arroz Caldo | 🇵🇭 Philippines | Congee / porridge |
 | Hyderabadi Chicken Biryani | 🇮🇳 India | Layered *dum* pilaf |
@@ -24,6 +25,7 @@ It's two things at once:
 | Arroz con Pollo Norteño | 🇲🇽 Northern Mexico | One-pot *arroz rojo* |
 | Chicken Jambalaya | 🇺🇸 Louisiana, USA | One-pot Creole/Cajun |
 | Trinidad Pelau | 🇹🇹 Trinidad & Tobago | Caramelized one-pot |
+| Jamaican Curry Chicken over Rice & Peas | 🇯🇲 Jamaica | Curry over coconut rice |
 
 Plus **Foundations** chapters: why the pairing works, Rice 101, and a cook's
 toolkit of shared techniques.

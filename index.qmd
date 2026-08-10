@@ -16,8 +16,8 @@ and then hands you a recipe you can actually cook tonight.
 
 ## What's inside
 
-- **11 flagship dishes** spanning Singapore to northern Mexico, each with its
-  history, a full ingredient list, and a step-by-step method.
+- **13 flagship dishes** spanning Singapore to Jamaica, each with its history,
+  a full ingredient list, and a step-by-step method.
 - **Foundations** — how to cook rice that isn't gluey, plus the small handful of
   techniques (blooming spices, building sofrito, resting a bird) that show up
   again and again.
@@ -60,6 +60,7 @@ together*, so you can see the pattern across the map.
 (function () {
   var dishes = [
     { name: "Hainanese Chicken Rice", flag: "🇸🇬", where: "Singapore",            cat: "alongside", label: "Served alongside",  lat: 1.35,  lon: 103.82, url: "chapters/hainanese-chicken-rice.html" },
+    { name: "Cơm Gà",                flag: "🇻🇳", where: "Hội An, Vietnam",       cat: "over",      label: "Chicken over rice", lat: 15.88, lon: 108.34, url: "chapters/com-ga.html" },
     { name: "Oyakodon",              flag: "🇯🇵", where: "Japan",                cat: "over",      label: "Chicken over rice", lat: 35.68, lon: 139.69, url: "chapters/oyakodon.html" },
     { name: "Arroz Caldo",           flag: "🇵🇭", where: "Philippines",          cat: "together",  label: "Cooked together",   lat: 14.60, lon: 120.98, url: "chapters/arroz-caldo.html" },
     { name: "Hyderabadi Biryani",    flag: "🇮🇳", where: "Hyderabad, India",     cat: "together",  label: "Cooked together",   lat: 17.38, lon: 78.48,  url: "chapters/hyderabadi-biryani.html" },
@@ -69,7 +70,8 @@ together*, so you can see the pattern across the map.
     { name: "Arroz con Pollo",       flag: "🇪🇸", where: "Spain & Latin America", cat: "together", label: "Cooked together",   lat: 40.42, lon: -3.70,  url: "chapters/arroz-con-pollo.html" },
     { name: "Arroz con Pollo Norteño", flag: "🇲🇽", where: "Northern Mexico",     cat: "together", label: "Cooked together",   lat: 29.07, lon: -110.96, url: "chapters/arroz-con-pollo-norteno.html" },
     { name: "Chicken Jambalaya",     flag: "🇺🇸", where: "Louisiana, USA",       cat: "together",  label: "Cooked together",   lat: 29.95, lon: -90.07, url: "chapters/chicken-jambalaya.html" },
-    { name: "Trinidad Pelau",        flag: "🇹🇹", where: "Trinidad & Tobago",    cat: "together",  label: "Cooked together",   lat: 10.65, lon: -61.51, url: "chapters/trinidad-pelau.html" }
+    { name: "Trinidad Pelau",        flag: "🇹🇹", where: "Trinidad & Tobago",    cat: "together",  label: "Cooked together",   lat: 10.65, lon: -61.51, url: "chapters/trinidad-pelau.html" },
+    { name: "Jamaican Curry Chicken", flag: "🇯🇲", where: "Jamaica",             cat: "over",      label: "Chicken over rice", lat: 18.02, lon: -76.80, url: "chapters/jamaican-curry-chicken.html" }
   ];
   var colors = { together: "#4b7f52", over: "#2c6e9c", alongside: "#c0392b", hybrid: "#e8a02c" };
 
@@ -119,7 +121,7 @@ full story is in [The Global Marriage of Chicken & Rice](chapters/why-rice-and-c
 | How it comes together | Dishes |
 |---|---|
 | 🍲 **Cooked together** (one pot) | [Arroz con Pollo](chapters/arroz-con-pollo.qmd) · [Arroz con Pollo Norteño](chapters/arroz-con-pollo-norteno.qmd) · [Jambalaya](chapters/chicken-jambalaya.qmd) · [Pelau](chapters/trinidad-pelau.qmd) · [Arroz Caldo](chapters/arroz-caldo.qmd) · [Kabsa](chapters/chicken-kabsa.qmd) · [Biryani](chapters/hyderabadi-biryani.qmd) |
-| 🍚 **Chicken over rice** | [Oyakodon](chapters/oyakodon.qmd) |
+| 🍚 **Chicken over rice** | [Oyakodon](chapters/oyakodon.qmd) · [Cơm Gà](chapters/com-ga.qmd) · [Jamaican Curry Chicken](chapters/jamaican-curry-chicken.qmd) |
 | 🍽️ **Served alongside** | [Hainanese Chicken Rice](chapters/hainanese-chicken-rice.qmd) · [Zereshk Polo](chapters/zereshk-polo.qmd) |
 | 🍲🍽️ **Hybrid** (one-pot rice, chicken added) | [Jollof Rice](chapters/jollof-rice.qmd) |
 

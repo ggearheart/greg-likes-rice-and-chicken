@@ -28,6 +28,7 @@ book:
     - part: "East & Southeast Asia"
       chapters:
         - chapters/hainanese-chicken-rice.qmd
+        - chapters/com-ga.qmd
         - chapters/oyakodon.qmd
         - chapters/arroz-caldo.qmd
     - part: "South Asia & Persia"
@@ -44,6 +45,7 @@ book:
         - chapters/arroz-con-pollo-norteno.qmd
         - chapters/chicken-jambalaya.qmd
         - chapters/trinidad-pelau.qmd
+        - chapters/jamaican-curry-chicken.qmd
     - chapters/contributing.qmd
     - references.qmd
 
