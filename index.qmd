@@ -140,4 +140,14 @@ snapshot of a living tradition, and every grandmother is right. Where a dish has
 strong regional variants, this book notes them — and invites you to add yours.
 :::
 
+::: {.callout-note appearance="simple"}
+## With thanks
+This book began as **Rebecca Greenwood's idea** — the inspiration and the spark that
+got the whole project cooking. Watch this space: Rebecca will be adding some of her
+own recipes down the line.
+
+The title also tips its hat to the mockumentary ***Juan Like Rice and Chicken***,
+another of this project's inspirations.
+:::
+
 Now, put a pot on. Let's eat.

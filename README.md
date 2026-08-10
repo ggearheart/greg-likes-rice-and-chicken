@@ -70,6 +70,13 @@ Corrections, regional variations, and whole new dishes are all welcome — see
 existing chapter, follow the recipe format, register it in `_quarto.yml`, and open
 a pull request.
 
+## Acknowledgments
+
+- **Rebecca Greenwood** — for the idea and the inspiration behind this book. More of
+  her own recipes are on the way.
+- The mockumentary ***Juan Like Rice and Chicken*** — an inspiration for the project,
+  and the affectionate nod behind the title.
+
 ## License
 
 - **Content** (text, recipes, images): [CC BY-SA 4.0](LICENSE-CONTENT)
