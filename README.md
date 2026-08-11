@@ -18,6 +18,7 @@ It's two things at once:
 | Oyakodon | 🇯🇵 Japan | Simmer over rice |
 | Arroz Caldo | 🇵🇭 Philippines | Congee / porridge |
 | Nasi Goreng | 🇮🇩 Indonesia | Stir-fried rice |
+| Guam Coconut Chicken Adobo | 🇬🇺 Guam & the Marianas | Vinegar braise over rice |
 | Hyderabadi Chicken Biryani | 🇮🇳 India | Layered *dum* pilaf |
 | Zereshk Polo ba Morgh | 🇮🇷 Iran | Steamed pilaf + tahdig |
 | Chicken Kabsa | 🇸🇦 Saudi Arabia | One-pot pilaf |

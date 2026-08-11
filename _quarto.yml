@@ -33,6 +33,7 @@ book:
         - chapters/oyakodon.qmd
         - chapters/arroz-caldo.qmd
         - chapters/nasi-goreng.qmd
+        - chapters/guam-coconut-chicken-adobo.qmd
     - part: "South Asia & Persia"
       chapters:
         - chapters/hyderabadi-biryani.qmd
